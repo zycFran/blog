@@ -7,6 +7,8 @@ blog
 
 ## SEO系列
 #### - [基于MVVM架构的SEO优化实践](https://github.com/zycFran/blog/issues/1)
+
+## JS系列
 #### - [Js 模版——学习小结](https://www.cnblogs.com/zyc-undefined/p/3145057.html)
 
 ## Flex开发
