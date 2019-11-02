@@ -10,9 +10,9 @@
 - Re-render 会触发 dom 的 reconciliation(协调)，有可能跟性能优化有关
 
 ### 什么时候触发re-render
-- 真正可以触发re-render的只有state change
-看一个例子
+重点：只有state change可以触发re-render。有人会说，props的变化也会触发啊...这其实是一个误解，疑问props总是来源于父组件的state
 
+看一个例子
 ```JSX
 const Input = ({ value, onChange }) => (
   <input value={value} onChange={onChange} />
