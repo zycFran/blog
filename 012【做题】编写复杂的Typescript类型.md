@@ -121,3 +121,5 @@ type connect = (T: EffectModule)=> {
 }
 */
 ```
+
+最后再推荐一个好用的Typescript的工具库 [utility-types](https://github.com/piotrwitek/utility-types)
