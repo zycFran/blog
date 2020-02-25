@@ -97,4 +97,3 @@ webpack文件生成是在`emit`这个hook阶段生成的。这个时间，需要
 - 需要使用compiler对象上的特点hooks进行资源生成
 
 代码地址： [webpack-zip-plugin](https://github.com/zycFran/webpack-zip-plugin)
-
