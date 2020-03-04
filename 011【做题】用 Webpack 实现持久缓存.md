@@ -267,7 +267,11 @@ module.exports = {
 ## 参考
 
 [基于webpack4[.3+]构建可预测的持久化缓存方案](https://github.com/jiangjiu/blog-md/issues/49) 
+
 [webpack optimization 文档](https://webpack.docschina.org/configuration/optimization/#optimization-moduleids) 
+
 [对Webpack的hash稳定性的初步探索](https://zhuanlan.zhihu.com/p/35093098) 
+
 [webpack 4: Code Splitting, chunk graph and the splitChunks optimization](https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366) 
+
 [Webpack 4 配置最佳实践](https://zxc0328.github.io/2018/06/19/webpack-4-config-best-practices/) 
