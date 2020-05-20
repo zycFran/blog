@@ -15,7 +15,8 @@ ConstraintLayout 最早是Google在2016年的 I/O大会上提出的，约束布�
 ## What? 
 ConstraintLayout即约束布局，这里的约束条件往往会使用数学关系进行表达。我们来看一个具体的例子：
 
-![image](https://cdn.nlark.com/yuque/0/2020/png/86342/1578891603878-0f32b280-19e1-4b68-8eab-60a146cbb86e.png?x-oss-process=image%2Fresize%2Cw_746)
+![image](https://cdn.nlark.com/yuque/0/2020/png/86342/1578891603878-0f32b280-19e1-4b68-8eab-60a146cbb86e.png?x-oss-process=image%2Fresize%2Cw_746) 
+
 上图来源是 See Conf 第三届的分享，[精雕细琢，打造极致可视化图表体验](https://www.yuque.com/seeconf/2020/ysufx8) ，可以看出，在一个图表布局的场景中，可以将图表中的各个模块用一组数学表达式组合来表示，最后求解这个数学表达式就可以得到每个模块的pos(x,y,width,height)信息。
 
 ## How?
